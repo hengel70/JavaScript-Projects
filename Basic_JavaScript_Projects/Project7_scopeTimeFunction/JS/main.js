@@ -1,5 +1,5 @@
 //Assignment #39
-/*var global=1;
+var global=1;
 function localfunc(){
     var local=2;
     document.write(global+local);
@@ -7,7 +7,7 @@ function localfunc(){
 function scopeFun(){
     document.write(global+local);
     console.log(global+local);
-}*/
+}
 //Assignment #40
 
 function mychoose(){
