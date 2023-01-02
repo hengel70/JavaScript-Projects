@@ -1,10 +1,10 @@
 //Assignment #44
 function concat(){
     var p1="This"
-    var p2="is"
-    var p3="a sentence"
+    var p2=" is"
+    var p3=" a sentence"
     var wholSent= p1.concat(p2,p3);
-    document.getElementById("concate").innerHTML(wholSent);
+    document.getElementById("concate").innerHTML=wholSent;
 }
 //Assignment #45
 function slice(){
